@@ -1,0 +1,8 @@
+{
+    "eth":"https://cloudflare-eth.com",
+    "eth_kovan":"https://kovan.poa.network",
+    "eth_ro":"https://ropsten.infura.io/v3/",
+    "bsc":"https://bsc-dataseed1.binance.org:443",
+    "matic":"https://rpc-mainnet.matic.network",
+    "polygon_mumbai":"https://rpc-mumbai.maticvigil.com"
+}
